@@ -60,7 +60,6 @@ a {
 
 a:hover {
   transition: 0.3s;
-  /* color: #524c42; */
   background-color: #f08b33;
 }
 
@@ -102,6 +101,7 @@ p {
 .sec-container {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   flex-basis: 50%;
 }
 
